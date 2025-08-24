@@ -25,7 +25,6 @@ I mainly work on **back-end development**, exploring languages such as **C++, Py
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>  
 
